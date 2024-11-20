@@ -1,0 +1,13 @@
+{
+    "name": "baotran/token-manager",
+    "description": "A package for managing tokens and sessions compatible with CakePHP 3.5.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Baotran\\TokenManager\\": "src/"
+        }
+    }
+}
